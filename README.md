@@ -1,0 +1,1 @@
+This project is a C# application developed using Windows Forms that calculates the final Grade Point Average (GPA) based on user input, providing a straightforward and user-friendly interface for academic performance tracking.
